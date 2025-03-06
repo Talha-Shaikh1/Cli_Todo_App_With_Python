@@ -66,5 +66,5 @@ Want to improve this project? Feel free to fork it and create a pull request!
 
 ## 📧 Contact
 
-For any issues or suggestions, reach out to me on **[LinkedIn](https://linkedin.com/in/yourprofile)** or open an **issue** on this repository.
+For any issues or suggestions, reach out to me on **[LinkedIn](https://www.linkedin.com/in/muhammad-talha-b48487345/)** or open an **issue** on this repository.
 
