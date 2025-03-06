@@ -10,7 +10,7 @@ A simple, fast, and beautiful command-line **TODO list manager** built with **Py
 - 📂 **JSON-based storage** (No database needed)
 
 ## 📸 Demo
-![CLI TODO App Demo](https://your-image-link.com) *(Replace this with an actual image of your app running)*
+![CLI TODO App Demo](demo.png) 
 
 ## 🛠 Installation
 
